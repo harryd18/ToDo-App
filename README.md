@@ -1,2 +1,2 @@
 # ToDo-App
-This is a ToDo-App which I created by using HTML , CSS and Vanilla Javascript.
+This Todo-App is created with the help of HTML , CSS & Javascript. In this app you can write down your daily Todo tasks in order to store them  & later on delete those tasks after they have been accomplished.
